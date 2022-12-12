@@ -12,6 +12,11 @@ const initialCategoriesData = [
     { "id": 5, "title": "C_1", "parentId": 2 },
     { "id": 6, "title": "A_1_1", "parentId": 3 },
     { "id": 7, "title": "A_1_2", "parentId": 3 },
+    { "id": 8, "title": "A_1_2_1", "parentId": 7 },
+    { "id": 9, "title": "A_1_2_2", "parentId": 7 },
+    { "id": 10, "title": "A_1_2_3", "parentId": 7 },
+    { "id": 11, "title": "A_1_2_3", "parentId": 10 },
+    { "id": 12, "title": "A_1_2_3", "parentId": 10 },
 ]
 
 
